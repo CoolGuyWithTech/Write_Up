@@ -53,6 +53,8 @@ In the vuln function it have a couple of variables and it compare's the input wi
 
 So what i did is converting the hex to ascii on cyberchef, and i got the creator github page and the string it compare with
 
+The reason im reversing the order of the hex because we are using little indian as the format, so we need to reverse the order to get the actual text
+
 ![[hex github.png]](https://github.com/CoolGuyWithTech/Cybersecurity/blob/main/Attachment/Classic%20Passwd/hex%20github.png)
 
 ![[hex text.png]](https://github.com/CoolGuyWithTech/Cybersecurity/blob/main/Attachment/Classic%20Passwd/hex%20text.png)
